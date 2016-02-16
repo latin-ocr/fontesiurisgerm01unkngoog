@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fontesiurisgerm01unkngoog_0009.png"; bbox 0 0 3000 4934; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 402 669 945 891">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 402 669 945 891">
+     <span class='ocr_line' id='line_1_1' title="bbox 402 669 945 891; baseline 0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 402 796 421 815; x_wconf 83' lang='lat'><em>·</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 563 669 945 891; x_wconf 72' lang='lat' dir='ltr'>FONTES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 196 1193 1315 1396">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 196 1193 1315 1396">
+     <span class='ocr_line' id='line_1_2' title="bbox 196 1193 1315 1396; baseline -0.004 -26"><span class='ocrx_word' id='word_1_3' title='bbox 196 1193 417 1370; x_wconf 80' lang='lat' dir='ltr'>IURIS</span> <span class='ocrx_word' id='word_1_4' title='bbox 461 1193 923 1370; x_wconf 56' lang='lat' dir='ltr'><strong>GERMANI&amp;</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 964 1193 1315 1396; x_wconf 75' lang='lat' dir='ltr'><strong>ANTIQUI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 261 2125 1251 2260">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 261 2125 1251 2260">
+     <span class='ocr_line' id='line_1_3' title="bbox 261 2125 1251 2260; baseline 0.002 -34"><span class='ocrx_word' id='word_1_6' title='bbox 261 2152 599 2260; x_wconf 70' lang='lat' dir='ltr'><strong>MONUMENTIS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 629 2125 933 2228; x_wconf 76' lang='lat' dir='ltr'><strong>GERMANIAE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 960 2151 1251 2230; x_wconf 73' lang='lat' dir='ltr'>fflsTofflols</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 551 2391 955 2457">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 551 2391 955 2457">
+     <span class='ocr_line' id='line_1_4' title="bbox 551 2391 955 2457; baseline -0.005 0"><span class='ocrx_word' id='word_1_9' title='bbox 551 2391 806 2457; x_wconf 82' lang='lat' dir='ltr'>SEPARATIM</span> <span class='ocrx_word' id='word_1_10' title='bbox 828 2393 955 2457; x_wconf 83' lang='lat' dir='ltr'><strong>EDITI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 262 3086 1250 3164">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 262 3086 1250 3164">
+     <span class='ocr_line' id='line_1_5' title="bbox 262 3086 1250 3164; baseline 0 -10"><span class='ocrx_word' id='word_1_11' title='bbox 262 3087 424 3154; x_wconf 79' lang='lat' dir='ltr'>LEGES</span> <span class='ocrx_word' id='word_1_12' title='bbox 450 3086 855 3155; x_wconf 82' lang='lat' dir='ltr'><strong>VISIGO&#39;I&#39;HORUM</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 880 3087 1250 3164; x_wconf 79' lang='lat' dir='ltr'><strong>ANTIQUIORES.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1504 4934">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1504 4934">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1504 4934; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1504 4934; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
